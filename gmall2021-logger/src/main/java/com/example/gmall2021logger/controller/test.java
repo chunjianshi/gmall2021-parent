@@ -47,8 +47,8 @@ public class test {
 //    }
 //    public static final Customer cust = new Customer();
     public static void main(String[] args) {
-        System.out.println("HELLOWORD!!");
-        System.out.println("helloword!!");
+        System.out.println("HELLOWORD123!!");
+        System.out.println("helloword456!!");
 //        ArrayList list = new list();
 
         ArrayList list1 = new ArrayList();
