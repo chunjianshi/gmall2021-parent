@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 // scj
 /*
-scj
+scj123
  */
 @SpringBootApplication
 public class Gmall2021LoggerApplication {

@@ -60,7 +60,7 @@ public class test {
         //endregion
         System.out.println("123");
 //        模板三：fori
-        String[] arr = new String[]{"tom","Jerry","Hanmeimei","LiLei"};
+        String[] arr = new String[]{"tom","Jerry","HanmeimeiHanmeimei","LiLei"};
         for (int i = 0; i < arr.length; i++) {
             System.out.println(arr[i]);
         }
