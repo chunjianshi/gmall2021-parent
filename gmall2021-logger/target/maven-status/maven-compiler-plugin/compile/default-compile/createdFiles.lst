@@ -1,0 +1,5 @@
+com\example\gmall2021logger\controller\LoggerController.class
+com\example\gmall2021logger\demos\web\BasicController.class
+com\example\gmall2021logger\demos\web\PathVariableController.class
+com\example\gmall2021logger\Gmall2021LoggerApplication.class
+com\example\gmall2021logger\demos\web\User.class
